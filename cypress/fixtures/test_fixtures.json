@@ -1,6 +1,7 @@
 {
   "env": {
-    "homepage": "https://sfx.demo.magexo.cloud/"
+    "homepage": "https://sfx.demo.magexo.cloud/",
+    "graphQL": "https://sfx.demo.magexo.cloud/_gql"
   },
   "user": {
     "email": "luke@skywalker.com",
