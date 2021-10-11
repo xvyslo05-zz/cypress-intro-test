@@ -37,5 +37,4 @@ describe('MageXo intro test', () => {
       cy.log('remove before flight')
     })
   })
-
 })
