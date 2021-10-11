@@ -1,0 +1,20 @@
+{
+  "env": {
+    "homepage": "https://sfx.demo.magexo.cloud/"
+  },
+  "user": {
+    "email": "luke@skywalker.com",
+    "firstName": "Luke",
+    "lastName": "Skywalker",
+    "phoneNumberPredial": "00420",
+    "phoneNumber": "123456321"
+  },
+  "address": {
+    "personal": {
+      "street": "Skywalker's farm",
+      "streetNumber": "2",
+      "city": "Mos Eisley",
+      "state": "Tatooine"
+    }
+  }
+}
