@@ -31,10 +31,12 @@ describe('MageXo intro test', () => {
     })
     it('Filter brand while searching', () => {
       cy.log('remove before flight')
+      //hint: try to use GraphQL and intercepts here
     })
 
     it('Filter price while searching', () => {
       cy.log('remove before flight')
+      //hint: try to use GraphQL and intercepts here
     })
   })
 })
