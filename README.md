@@ -4,8 +4,8 @@ This repo is for MageXo purposes only. It serves for proving capability working 
 
 ## Requirements
 
-- yarn
-- git
+- yarn (https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+- git (https://git-scm.com/download/win)
 
 ## Setup
 
