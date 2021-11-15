@@ -20,7 +20,6 @@ cd cypress-intro-test
 
 ```
 yarn install
-
 ```
 
 3. Cypress
