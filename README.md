@@ -36,12 +36,10 @@ yarn cypress open
 
 ## Test description
 
-### Branching
+### Forking
 
-Do not forget to branch out from the `master` branch. Use your `firstName` as a branch name.
+Do not forget to fork this repo and create a pull request, when the work is done. Try to commit frequently.
 
-- commit frequently
-- create a pull request
 
 ### Test cases
 
