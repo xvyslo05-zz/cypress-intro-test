@@ -38,7 +38,7 @@ yarn cypress open
 
 ### Forking
 
-Do not forget to fork this repo and create a pull request, when the work is done. Try to commit frequently.
+Do not forget to fork this repo before you star working and create a pull request when the work is done. Try to commit frequently.
 
 
 ### Test cases
