@@ -3,6 +3,8 @@ import * as testFixtures from '../fixtures/test_fixtures.json'
 describe('MageXo intro test', () => {
   beforeEach(() => {
     cy.visit(testFixtures.env.homepage)
+
+    //hint: want different view? use cy.viewport command!
   })
 
   context('Newsletter', () => {
